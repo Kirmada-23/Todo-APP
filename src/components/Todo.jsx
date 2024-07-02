@@ -15,8 +15,8 @@ function Todo({ task, toggleComplete, deleteTodo, editTodo }) {
         <FontAwesomeIcon
           icon={faPenToSquare}
           onClick={() => editTodo(task.id)}
+          style={{ marginRight: "10px" }} // Add margin to the right
         />
-
         <FontAwesomeIcon
           icon={faTrashCan}
           onClick={() => deleteTodo(task.id)}
