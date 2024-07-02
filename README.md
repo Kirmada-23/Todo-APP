@@ -37,6 +37,15 @@ Follow these instructions to set up the project locally.
 2. **Change your directory to the project's folder**
   ```bash
   cd Todo-APP
+  ```
+3. **Install the necessary dependencies by running**:
+  ```bash
+  npm install
+  ```
+4. **Start the development server with the following command**:
+   ```bash
+   npm run dev
+   ```
 
 
 
