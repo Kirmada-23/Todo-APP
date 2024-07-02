@@ -30,8 +30,7 @@ Follow these instructions to set up the project locally.
 ### Installation
 
 1. **Clone the Repository**
-
-   ```bash
+    ```bash
    git clone https://github.com/Kirmada-23/Todo-APP.git
 
 2. **Change your directory to the project's folder**
@@ -46,7 +45,7 @@ Follow these instructions to set up the project locally.
    ```bash
    npm run dev
    ```
-```
+
 
 
 
